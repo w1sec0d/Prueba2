@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Git commands
 
 git remote
@@ -7,5 +5,3 @@ git remote
 ## This content
 
 was created in the master branch
-
-> > > > > > > master
