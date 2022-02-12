@@ -1,7 +1,7 @@
 # Git commands
 
-git remote 
+git remote
 
-## This content 
+## This content
 
-was created in another branch
+Was overwritten in a branch
